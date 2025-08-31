@@ -13,3 +13,9 @@ I downloaded a flight dataset from Kaggle to perform feature engineering for mac
 
 -<a href="https://github.com/AsheeshSinghrajput/Flight-Price-Feature-Engineering-Advance-Python/blob/main/Flight%20Price%20Prediciton%20Feature%20Engineering.ipynb">Python Code</a>
 
+## Work Samples 
+<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/c287defc-8ac6-4c2b-bcbe-4b7c365aa4a2" />
+
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/02210d72-d633-4792-8e4e-fc76d0dc7ea5" />
+
+
